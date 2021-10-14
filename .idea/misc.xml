@@ -4,8 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Rachmad/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Rachmad/app/src/main/res/layout/fragment1.xml" value="0.10666666666666667" />
         <entry key="..\:/Rachmad/app/src/main/res/layout/fragment2.xml" value="0.10144927536231885" />
         <entry key="..\:/Rachmad/app/src/main/res/layout/fragment3.xml" value="0.1" />
+        <entry key="..\:/Rachmad/app/src/main/res/layout/fragment4.xml" value="0.1" />
+        <entry key="..\:/Rachmad/app/src/main/res/layout/fragment_4.xml" value="0.1" />
+        <entry key="..\:/Rachmad/app/src/main/res/layout/fragment_fragment1.xml" value="0.1" />
       </map>
     </option>
   </component>

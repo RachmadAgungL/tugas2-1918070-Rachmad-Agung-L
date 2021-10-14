@@ -2,7 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FF03B8"
+    android:background="#972017"
     android:orientation="vertical">
 
     <TextView
@@ -10,6 +10,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:fontFamily="sans-serif-thin"
-        android:text="FRAGMENT 2"
-        android:textSize="50sp" />
+        android:text="Ini Adalah Fragmen 2"
+        android:textSize="34sp" />
 </LinearLayout>
